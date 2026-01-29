@@ -1,12 +1,12 @@
 {
-  "timestamp" : "2026-01-03T02:06:09Z",
-  "count_outdated" : 276,
-  "uniques_outdated" : 209,
-  "count" : 278,
-  "uniques" : 211,
+  "timestamp" : "2026-01-29T01:43:22Z",
+  "count_outdated" : 278,
+  "uniques_outdated" : 211,
+  "count" : 280,
+  "uniques" : 213,
   "clones" : [
     {
-      "timestamp": "2025-12-16T00:00:00Z",
+      "timestamp": "2026-01-09T00:00:00Z",
       "count": 0,
       "count_minmax": [ 0, 0 ],
       "count_decinc": [ 0, 0 ],
@@ -15,7 +15,7 @@
       "uniques_decinc": [ 0, 0 ]
     },
     {
-      "timestamp": "2025-12-17T00:00:00Z",
+      "timestamp": "2026-01-10T00:00:00Z",
       "count": 0,
       "count_minmax": [ 0, 0 ],
       "count_decinc": [ 0, 0 ],
@@ -24,7 +24,7 @@
       "uniques_decinc": [ 0, 0 ]
     },
     {
-      "timestamp": "2025-12-18T00:00:00Z",
+      "timestamp": "2026-01-11T00:00:00Z",
       "count": 0,
       "count_minmax": [ 0, 0 ],
       "count_decinc": [ 0, 0 ],
@@ -33,7 +33,7 @@
       "uniques_decinc": [ 0, 0 ]
     },
     {
-      "timestamp": "2025-12-19T00:00:00Z",
+      "timestamp": "2026-01-12T00:00:00Z",
       "count": 0,
       "count_minmax": [ 0, 0 ],
       "count_decinc": [ 0, 0 ],
@@ -42,25 +42,7 @@
       "uniques_decinc": [ 0, 0 ]
     },
     {
-      "timestamp": "2025-12-20T00:00:00Z",
-      "count": 0,
-      "count_minmax": [ 0, 0 ],
-      "count_decinc": [ 0, 0 ],
-      "uniques": 0,
-      "uniques_minmax": [ 0, 0 ],
-      "uniques_decinc": [ 0, 0 ]
-    },
-    {
-      "timestamp": "2025-12-21T00:00:00Z",
-      "count": 0,
-      "count_minmax": [ 0, 0 ],
-      "count_decinc": [ 0, 0 ],
-      "uniques": 0,
-      "uniques_minmax": [ 0, 0 ],
-      "uniques_decinc": [ 0, 0 ]
-    },
-    {
-      "timestamp": "2025-12-22T00:00:00Z",
+      "timestamp": "2026-01-13T00:00:00Z",
       "count": 1,
       "count_minmax": [ 1, 1 ],
       "count_decinc": [ 0, 1 ],
@@ -69,7 +51,7 @@
       "uniques_decinc": [ 0, 1 ]
     },
     {
-      "timestamp": "2025-12-23T00:00:00Z",
+      "timestamp": "2026-01-14T00:00:00Z",
       "count": 0,
       "count_minmax": [ 0, 0 ],
       "count_decinc": [ 0, 0 ],
@@ -78,7 +60,7 @@
       "uniques_decinc": [ 0, 0 ]
     },
     {
-      "timestamp": "2025-12-24T00:00:00Z",
+      "timestamp": "2026-01-15T00:00:00Z",
       "count": 0,
       "count_minmax": [ 0, 0 ],
       "count_decinc": [ 0, 0 ],
@@ -87,16 +69,7 @@
       "uniques_decinc": [ 0, 0 ]
     },
     {
-      "timestamp": "2025-12-25T00:00:00Z",
-      "count": 0,
-      "count_minmax": [ 0, 0 ],
-      "count_decinc": [ 0, 0 ],
-      "uniques": 0,
-      "uniques_minmax": [ 0, 0 ],
-      "uniques_decinc": [ 0, 0 ]
-    },
-    {
-      "timestamp": "2025-12-26T00:00:00Z",
+      "timestamp": "2026-01-16T00:00:00Z",
       "count": 1,
       "count_minmax": [ 1, 1 ],
       "count_decinc": [ 0, 1 ],
@@ -105,7 +78,7 @@
       "uniques_decinc": [ 0, 1 ]
     },
     {
-      "timestamp": "2025-12-27T00:00:00Z",
+      "timestamp": "2026-01-17T00:00:00Z",
       "count": 0,
       "count_minmax": [ 0, 0 ],
       "count_decinc": [ 0, 0 ],
@@ -114,7 +87,7 @@
       "uniques_decinc": [ 0, 0 ]
     },
     {
-      "timestamp": "2025-12-28T00:00:00Z",
+      "timestamp": "2026-01-18T00:00:00Z",
       "count": 0,
       "count_minmax": [ 0, 0 ],
       "count_decinc": [ 0, 0 ],
@@ -123,7 +96,34 @@
       "uniques_decinc": [ 0, 0 ]
     },
     {
-      "timestamp": "2025-12-29T00:00:00Z",
+      "timestamp": "2026-01-19T00:00:00Z",
+      "count": 0,
+      "count_minmax": [ 0, 0 ],
+      "count_decinc": [ 0, 0 ],
+      "uniques": 0,
+      "uniques_minmax": [ 0, 0 ],
+      "uniques_decinc": [ 0, 0 ]
+    },
+    {
+      "timestamp": "2026-01-20T00:00:00Z",
+      "count": 0,
+      "count_minmax": [ 0, 0 ],
+      "count_decinc": [ 0, 0 ],
+      "uniques": 0,
+      "uniques_minmax": [ 0, 0 ],
+      "uniques_decinc": [ 0, 0 ]
+    },
+    {
+      "timestamp": "2026-01-21T00:00:00Z",
+      "count": 0,
+      "count_minmax": [ 0, 0 ],
+      "count_decinc": [ 0, 0 ],
+      "uniques": 0,
+      "uniques_minmax": [ 0, 0 ],
+      "uniques_decinc": [ 0, 0 ]
+    },
+    {
+      "timestamp": "2026-01-22T00:00:00Z",
       "count": 0,
       "count_minmax": [ 0, 0 ],
       "count_decinc": [ 0, 0 ],
